@@ -1,1 +1,19 @@
-
+body {
+    background-color: #f8f9fa;
+    padding: 20px;
+  }
+  
+  .kente-block {
+    height: 60px;
+  }
+  
+.block1 { background-color: blue; }
+.block2 { background-color: black; }
+.block3 { background-color: darkblue; }
+.block4 { background-color: lightgray; }
+.block5 { background-color: purple; }
+.block6 { background-color: black; }
+.block7 { background-color: blue; }
+.block8 { background-color: black; }
+.block9 { background-color: darkred; }
+.block10 { background-color: darkgrey; }
